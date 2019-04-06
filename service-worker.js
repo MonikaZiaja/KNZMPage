@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/KNZMPage/precache-manifest.3736af9141ce53fcd96a48076e2f3118.js"
+  "/KNZMPage/precache-manifest.eab09de4a1cfc18a3369672e0e3b56fa.js"
 );
 
 workbox.clientsClaim();
